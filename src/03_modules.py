@@ -30,7 +30,7 @@ import os
 # print(os.getid())
 # Print the current working directory (cwd):
 # YOUR CODE HERE
-# print(os.getcwd())
+print(os.getcwd())
 # Print out your machine's login name
 # YOUR CODE HERE
-print(os.getlogin())
+# print(os.getlogin())
